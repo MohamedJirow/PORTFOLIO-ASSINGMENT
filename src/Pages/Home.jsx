@@ -1,5 +1,5 @@
 import imageOne from "../images/WhatsApp_Image_2025-08-06_at_00.02.41_84875810-removebg-preview.png";
-import imageTwo from "../images/WhatsApp Image 2025-08-06 at 11.00.59_6dac3d13.jpg";
+import imageTwo from "../images/WhatsApp Image 2025-08-06 at 11.00.59_6dac3d13.jpg"
 import imageThree from "../images/2025.jpg";
 
 import Header from "../Componants/header"
@@ -96,7 +96,7 @@ function Home () {
           </p>
           
         <a
-  href="/ Mohamed_Sharmake_CV_Updated.pdf"
+  href="/ Mohamed_Sharmake_CV_Updated.Pdf"
   download
   className="bg-[#c4a35a] hover:bg-yellow-700 text-white px-6 py-2 rounded-md text-xl font-semibold transition-all duration-300 inline-block mt-4"
 >
